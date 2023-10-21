@@ -89,6 +89,11 @@ _G.packer_plugins = {
     path = "/Users/liamnelligan/.local/share/nvim/site/pack/packer/start/harpoon",
     url = "https://github.com/theprimeagen/harpoon"
   },
+  ["indent-blankline.nvim"] = {
+    loaded = true,
+    path = "/Users/liamnelligan/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
+    url = "https://github.com/lukas-reineke/indent-blankline.nvim"
+  },
   ["lsp-zero.nvim"] = {
     loaded = true,
     path = "/Users/liamnelligan/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
@@ -144,6 +149,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/liamnelligan/.local/share/nvim/site/pack/packer/start/undotree",
     url = "https://github.com/mbbill/undotree"
+  },
+  ["vim-tmux-navigator"] = {
+    loaded = true,
+    path = "/Users/liamnelligan/.local/share/nvim/site/pack/packer/start/vim-tmux-navigator",
+    url = "https://github.com/christoomey/vim-tmux-navigator"
   }
 }
 
